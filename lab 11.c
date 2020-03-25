@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+
+
 const int n=3;
 double a[3][3] ={{0.10,-0.04, -0.13},
          {-0.04, 0.34, 0.05},
